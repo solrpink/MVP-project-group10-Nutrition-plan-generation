@@ -12,7 +12,7 @@
 
 ## Технологический стек
 - Telegram Bot API
-- LLM API (Grok API: LLM Model - llama-3.3-70b-versatile)
+- LLM API (GroqCloud API: LLM Model - llama-3.3-70b-versatile)
 - Logging
 - Make (автоматизация сборки и задач)
 
