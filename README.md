@@ -20,4 +20,6 @@
 Все необходимые файлы находятся на main branch:
 - ANALYSIS.MD: Анализ ЦА
 - Integration Telegram Bot.blueprint.json: Сценарий бота в Make
-- REFERENCES.md: Анализ уже существующих решений/аналогов на рынке 
+- REFERENCES.md: Анализ уже существующих решений/аналогов на рынке
+- IMPROVEMENTS.md: Улучшения, которые были введены после тестирования.
+- Integration Telegram Bot.blueprint_improved.json: Сценарий бота в Make после улучшений
